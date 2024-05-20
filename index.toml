@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "0182a3ded00e8385f297547e1e6f9503f5681c18ac30a5a100b1fbb97c73810c"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "14c230626797879972b1283dea2b6df09f83e49c2ac6996c1f18b4989bae057e"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "bc4677b5d9ff2bca2d8e031faf781a10bc578b95cdb709527b8eb85d79e4daae"
 metafile = true
