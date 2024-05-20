@@ -116,11 +116,6 @@ hash = "e1b96a7b1d81aa26642379484ff427392dcc11e01d8d780d302f6db0f6af97d7"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
-metafile = true
-
-[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "2f7b4303cff064f30e17cfce29235ac4231bcab38d11627c73e59fbde663c6e1"
 metafile = true
