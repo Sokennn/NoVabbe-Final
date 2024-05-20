@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblepedia.pw.toml"
-hash = "7d7b70f4fc9ebf882f6edca9d72dc2c5215a148f376d340daba68927c9d7c0b2"
+hash = "c0bdf864595151b3bc6bef7256139f9348c9bc16cba990a997fc32e50c894c8b"
 metafile = true
 
 [[files]]
