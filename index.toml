@@ -71,6 +71,11 @@ hash = "a1c1ff2955a5050d31fd6a8526b949f3bae0007366d819afda5c8a6c10d183ac"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-mass-outbreaks.pw.toml"
+hash = "6833aa9e60d97f5eef743bd6606d3b863fae4a43bbc0c9e4132a9f5317e1ab81"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "ae7b3440687f7a3c059aa0d93b5815028866c9c10cd4a11d278e19bb8d661d49"
 metafile = true
