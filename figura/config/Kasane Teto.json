@@ -1,0 +1,14 @@
+{
+  "outfit": {
+    "type": "BOOL",
+    "data": false
+  },
+  "armour": {
+    "type": "BOOL",
+    "data": true
+  },
+  "name_override": {
+    "type": "BOOL",
+    "data": false
+  }
+}
