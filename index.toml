@@ -5,10 +5,6 @@ file = "config/figura.json"
 hash = "75c2be4f0fb54df9572b643afbe87033eeec300e40e9aaca3ec9ffd016fe6caf"
 
 [[files]]
-file = "figura/avatars/kasane_teto_V1.zip"
-hash = "2a4e8d3b4a4c868c457374df8ab3e8a074534f79e64d4ebf1b3cacb916b6ca1d"
-
-[[files]]
 file = "figura/cache/avatars.nbt"
 hash = "7260be1cd44ccefd79fd2dd7be86b8706c84ad3f1e998d540f7a0009304157ee"
 
@@ -479,10 +475,6 @@ hash = "34542aced61b68e5561f9c6a5e6efc44b88d09a98aba4399e6395722325ecdc7"
 [[files]]
 file = "figura/cache/settings.nbt"
 hash = "c280bd09da6c4f64da16ab41fed91c9e1c20db7bee2125200f895a5eb11e18d4"
-
-[[files]]
-file = "figura/config/Kasane Teto.json"
-hash = "b44d2443b3d46db68bcde3cfeab28e8d2540cde58c5ffc9213c425347664b590"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
