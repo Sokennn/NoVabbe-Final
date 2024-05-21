@@ -632,6 +632,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "00ad8cbf63ae196b67cf52108fe9bda6822a28cd6b0f59370ec0334b0256444e"
 metafile = true
