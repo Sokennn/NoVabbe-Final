@@ -5,6 +5,26 @@ file = "config/figura.json"
 hash = "75c2be4f0fb54df9572b643afbe87033eeec300e40e9aaca3ec9ffd016fe6caf"
 
 [[files]]
+file = "config/voicechat/translations.properties"
+hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "368a595ab88997ecdecb0bc01c84824436421233d1b25061e47d241a5934a2a5"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "26452487d92024be26f011cf5fe1ddf96475077fc0004eabca8b9e3e2b74c768"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "2ed49b7f68d7fbc181ae010663a7ca3dd0e3a482ada1585e3aa49d112adc69d7"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
+
+[[files]]
 file = "figura/cache/avatars.nbt"
 hash = "7260be1cd44ccefd79fd2dd7be86b8706c84ad3f1e998d540f7a0009304157ee"
 
