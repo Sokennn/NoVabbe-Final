@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonrider.pw.toml"
-hash = "91e39975cf67f166100b8bea98186439ef5f22c4dc6c2cff207eeda2ef545e69"
+hash = "3c06ca9cbe623719ea397be2f98f03a3170fa7701074214c76c6347ce41da2a6"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbreeding.pw.toml"
-hash = "088ec07bcc5696bddf5a432414e659d575b24e5f6903a4cc3fadc109852e48bd"
+hash = "bf225e98f85f605a17a3f9752783aa88e29a5e862b9c7ace76f58550322a1f9c"
 metafile = true
 
 [[files]]
