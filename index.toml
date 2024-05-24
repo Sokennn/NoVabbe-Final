@@ -592,13 +592,13 @@ hash = "45a614920e9607f956111c8164092fb1c45a0bbc7246374051c0f4c0c9ee65dd"
 metafile = true
 
 [[files]]
-file = "mods/cobblemontrainers.pw.toml"
-hash = "1b7fe3bc7338aa980e132272980fa50e7ec22017eb68d5498c28800483102e29"
+file = "mods/cobblemonrider.pw.toml"
+hash = "91e39975cf67f166100b8bea98186439ef5f22c4dc6c2cff207eeda2ef545e69"
 metafile = true
 
 [[files]]
-file = "mods/cobblemounts.pw.toml"
-hash = "15bc109e7e348d18f9e266f447cc9277f18642e50cdbd7536d8b51eea835cb5a"
+file = "mods/cobblemontrainers.pw.toml"
+hash = "1b7fe3bc7338aa980e132272980fa50e7ec22017eb68d5498c28800483102e29"
 metafile = true
 
 [[files]]
