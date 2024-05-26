@@ -572,6 +572,11 @@ hash = "6833aa9e60d97f5eef743bd6606d3b863fae4a43bbc0c9e4132a9f5317e1ab81"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-move-inspector.pw.toml"
+hash = "5099e338860ad8c96b349095384a48433af6d4fe184624b9b537b94ffd30fd54"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "ae7b3440687f7a3c059aa0d93b5815028866c9c10cd4a11d278e19bb8d661d49"
 metafile = true
