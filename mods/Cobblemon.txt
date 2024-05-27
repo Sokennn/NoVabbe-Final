@@ -1,0 +1,11 @@
+name = "Cobblemon"
+filename = "Cobblemon.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/uu9fvj7nn99m6bet0d9vl/Cobblemon.jar?rlkey=k3m8phglq9hcqo6s8nzdcrfju&st=z7uese7e&dl=1"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "03dd0540db47d52dfdc0f823a8a21b4b752032b1d05f544bb9c878532be4e9c3"

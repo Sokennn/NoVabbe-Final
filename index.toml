@@ -502,6 +502,10 @@ hash = "aa9713b04a9a616f81f739cafd3b665e3fb835cc281c4478e92b0a8ba8e34c20"
 metafile = true
 
 [[files]]
+file = "mods/Cobblemon.txt"
+hash = "fa8604033a4e887471ca7162307bf1595b1272143b0b2354cd638ab299340b58"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
