@@ -587,11 +587,6 @@ hash = "3f0b1dfd749e3b3d2b2526fd470277e53353af15ed208d6ed4db3d847be8eee1"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "36299637ce982a725c707948f980dc15decb7120efc117297a4c8178d49878bd"
-metafile = true
-
-[[files]]
 file = "mods/cobblemonextras.pw.toml"
 hash = "45a614920e9607f956111c8164092fb1c45a0bbc7246374051c0f4c0c9ee65dd"
 metafile = true
