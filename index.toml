@@ -502,10 +502,6 @@ hash = "aa9713b04a9a616f81f739cafd3b665e3fb835cc281c4478e92b0a8ba8e34c20"
 metafile = true
 
 [[files]]
-file = "mods/Cobblemon.txt"
-hash = "fa8604033a4e887471ca7162307bf1595b1272143b0b2354cd638ab299340b58"
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
@@ -588,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-unimplemented-items.pw.toml"
 hash = "3f0b1dfd749e3b3d2b2526fd470277e53353af15ed208d6ed4db3d847be8eee1"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "36299637ce982a725c707948f980dc15decb7120efc117297a4c8178d49878bd"
 metafile = true
 
 [[files]]
