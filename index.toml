@@ -562,6 +562,11 @@ hash = "e6dc6258b74e2caa896fdf4a56f16893721806061fc143bc5867be186f5f35ee"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "d9b089c65a50943da96f21ab74fe9e176aeceddb797d7127cfaed9e8000d73e1"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-loot-balls.pw.toml"
 hash = "6259bfc92d12c659002134ce96830d9eb662e65bd2474094225a0c453b158871"
 metafile = true
