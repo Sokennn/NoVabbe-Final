@@ -527,6 +527,11 @@ hash = "4e0bf7c5e10c98d28de759fb46557938c4a0f4171118225175fb659a45c6e49a"
 metafile = true
 
 [[files]]
+file = "mods/attack-through-grass.pw.toml"
+hash = "5eda7f11150f4090a3bc0a17e71e2e314c9d90ad3b1af4be267fe969b04c3e03"
+metafile = true
+
+[[files]]
 file = "mods/backpacked-fabric.pw.toml"
 hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
 metafile = true
