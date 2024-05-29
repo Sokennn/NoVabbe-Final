@@ -6,7 +6,7 @@ hash = "61640977ef02dd307e6781030924ebde648fcd262b2205ced4c3c27553f1602e"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
-hash = "99eb484465ed260b0371450e151acc3f17c2b4fb62a9d9356c59a9fe108a4b1f"
+hash = "61e7402e33c55ea359c7e68222bf841fb066c5e19fe0dfe85eefbdb6c489dde6"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbreeding.pw.toml"
-hash = "bf225e98f85f605a17a3f9752783aa88e29a5e862b9c7ace76f58550322a1f9c"
+hash = "8a240b2a885919e6e607d39b96de0d59353c7174dfb9dac45b04afaa1fad1584"
 metafile = true
 
 [[files]]
