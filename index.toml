@@ -388,3 +388,123 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "a2fcbfa66810d21fc67499ea6fc65b4c465110d52c92408f6c35d7c1e1f96c6d"
 metafile = true
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/animations/diancie/diancie.animation.json"
+hash = "bc3f46dc1e3f94b6ead238d10dcc09bc45cb22a8aa3720f0acd6f048a419be14"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/animations/diancie_mega/diancie_mega.animation.json"
+hash = "5663c5a722f8e0c558a74f03ab424e3e8e809530dfe4e48a8f71f151618f4525"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/models/0703_carbink/carbink.geo.json"
+hash = "bb854b69dd915028ab9cc47d215c9ddc981693bf1677a8fa00007ca211fede18"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/models/diancie/diancie.geo.json"
+hash = "bd013ae9fe04976ecf11dfe1d774ced1d1f19fced6f0f3ec4693edcef48ddcac"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/models/diancie_mega/diancie_mega.geo.json"
+hash = "05f38083c1c6c3d671a9951b434f4448c7fec21835854c43a73af2e5fdb6bcaf"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/pokemon/animations/0703_carbink/carbink.animation.json"
+hash = "8e57a8f51ebb701cb9ca28668fc29ce945e4904b3635b650822e037c79bdf1f0"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/posers/carbink.json"
+hash = "4a68c5d36c5cbcdc6e465f0fece52fda246c6a7ebf522032c38d3f348a7d25da"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/posers/diancie.json"
+hash = "faa4db6218999c60435c622ac43712eed5e2921bb2abd7a0ef39d7c5d6ce56e8"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/posers/diancie_mega.json"
+hash = "4e1b2385f7955d420b4831435b06d300b06717725033f994e9ed5eb5716d8571"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/species/0703_carbink/0_carbink_base.json"
+hash = "d343ff07d1bbfdeec22a89b21965a689a5b415cdff740abcc5766a01115c02d7"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/species/0_diancie_base.json"
+hash = "cf26f0813c81887b6b0a869d7645b6a8c5bab727603d895a42837ff6d3451aec"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/bedrock/species/0_diancie_mega.json"
+hash = "37f39f9de5fcad5fce08e4b592c193049b814e932d4949ef9326e8ec170a61bc"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/lang/en_us.json"
+hash = "1be9cfc7b770ff0ed3d87d3120e7b646b1cbc74376e12319441eeab72c7bf871"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/sounds.json"
+hash = "51df3ff103d9a8e3d0b14a5844c24a3760a4e011db257afd17333a45192aa14a"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/sounds/pokemon/carbink/carbink_cry.ogg"
+hash = "d7d24ab185b40bd934e67597dad804ac4dd1186ed30e6f622a2f28c4ff25cea3"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/sounds/pokemon/diancie/diancie_cry.ogg"
+hash = "6941264703069bca3e3a2481a08216f8fb065c570264b489684d38bed3a17e1b"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/textures/pokemon/0703_carbink/carbink.png"
+hash = "0124624b17d7336e8b2e568dbfa7cc59d9f579363b7e586b4d09845fbf832fb6"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/textures/pokemon/0703_carbink/carbink_shiny.png"
+hash = "f508f5ee53bd57dcb06b938f3000e6750466301e3dc1dbfe2918ea17206fb7ca"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/textures/pokemon/0719_diancie/diancie.png"
+hash = "fcad74cc0f12430774f143dbc6d678330495d9f49f6dbdff00e3f7e3d596d443"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/textures/pokemon/0719_diancie/diancie_shiny.png"
+hash = "4fa8e4498f1f99f4fb1eaf6872cc8c92c959cd086e1c73646d75373e9f6dce3d"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/textures/pokemon/0719_diancie_mega/diancie_mega.png"
+hash = "5a0c9b7b9c5fa30158b85b5d7de081d3971bceb9c9b29f90837ee120b53ad21a"
+
+[[files]]
+file = "resourcepacks/diance/assets/cobblemon/textures/pokemon/0719_diancie_mega/diancie_mega_shiny.png"
+hash = "a4b5a63834b68f615d3121222e0bfcf88bd7c2e315a15305a29125ca5fb524eb"
+
+[[files]]
+file = "resourcepacks/diance/data/cobblemon/spawn_detail_presets/deepslate.json"
+hash = "e26322bf53c49b673e820033fd26cdfef10a77d49922d8335dd5b27d3ba9fcb8"
+
+[[files]]
+file = "resourcepacks/diance/data/cobblemon/spawn_pool_world/diancie.json"
+hash = "f0726040261b62af0bcc6971f814c3c691685995896834cf79990d5ebcf7441b"
+
+[[files]]
+file = "resourcepacks/diance/data/cobblemon/species/generation6/carbink.json"
+hash = "b5b2c7426116a8fa823570d0d2349a1108329579be6c5eeb60af4138e8b8a8bd"
+
+[[files]]
+file = "resourcepacks/diance/data/cobblemon/species/generation6/diancie.json"
+hash = "732036e5b2eb581e7f73c833f215e3b6fcc47fb7d7bccd60298af614b8bb3619"
+
+[[files]]
+file = "resourcepacks/diance/data/cobblemon/species/generation6/diancie_mega.json"
+hash = "cea02eb068bf8bc41a480fe37eb9694dc694e59a789a5d6c9d43317f5f89cd04"
+
+[[files]]
+file = "resourcepacks/diance/music_disc_hypnotize.png"
+hash = "b45a0a4c483bac820b5c629d9d6a0c90dcabecb53ca775913af36705cd807193"
+
+[[files]]
+file = "resourcepacks/diance/pack.mcmeta"
+hash = "7eb456574bf1fbe13df34ec0b3ae6c1281d9a9543d820f7a4c2a0937dc51b9f8"
+
+[[files]]
+file = "resourcepacks/diance/pack.png"
+hash = "9fd1397a8b983e5eac83fd55fa3b2ba03666f2f4d57f76be58a9fa9524ec5d73"
