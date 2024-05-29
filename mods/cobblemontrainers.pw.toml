@@ -1,13 +1,13 @@
 name = "CobblemonTrainers"
-filename = "CobblemonTrainers-fabric-1.1.5+1.5.0.jar"
+filename = "CobblemonTrainers-1.1.7+1.5.2-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/1QV9wNCJ/versions/zZDEsiZ9/CobblemonTrainers-fabric-1.1.5%2B1.5.0.jar"
+url = "https://cdn.modrinth.com/data/1QV9wNCJ/versions/a65XM3W6/CobblemonTrainers-1.1.7%2B1.5.2-fabric.jar"
 hash-format = "sha1"
-hash = "074b6da3e24b968641182ec942d7ae2f20ee8fc1"
+hash = "55c1038b62ca833643f7175d5599a9b27bd178d2"
 
 [update]
 [update.modrinth]
 mod-id = "1QV9wNCJ"
-version = "zZDEsiZ9"
+version = "a65XM3W6"

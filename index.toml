@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "5099e338860ad8c96b349095384a48433af6d4fe184624b9b537b94ffd30fd54"
+hash = "05423f8025a6bd761a8dff440fd5efb688ecf808a28db9705d02804097b0c454"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemontrainers.pw.toml"
-hash = "1b7fe3bc7338aa980e132272980fa50e7ec22017eb68d5498c28800483102e29"
+hash = "15352474eb40e8cdd9d98eb965938019a96d0010aaadb3210d034c7bb7494b20"
 metafile = true
 
 [[files]]
