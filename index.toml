@@ -372,7 +372,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "a2fcbfa66810d21fc67499ea6fc65b4c465110d52c92408f6c35d7c1e1f96c6d"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Genomons [1.5.1].zip"
-hash = "9d5409dff6fe929c5988e73a5dfa08f8122bbf4e3052285005021101939a45c1"
