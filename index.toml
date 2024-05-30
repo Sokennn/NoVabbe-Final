@@ -372,3 +372,63 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "a2fcbfa66810d21fc67499ea6fc65b4c465110d52c92408f6c35d7c1e1f96c6d"
 metafile = true
+
+[[files]]
+file = "resourcepacks/0 - Battle Music.zip"
+hash = "4e5b02141794668b163d0b8961332d0088f527572962c570be0f9c2789a89ca0"
+
+[[files]]
+file = "resourcepacks/0 - Cobblemon Interface v1.1.1.zip"
+hash = "c67dbc4e5928fc7c2a3c3cba75bb5a58fa4cfe9da13771fe93a182cbe1c80071"
+
+[[files]]
+file = "resourcepacks/0 - KieceIcons.zip"
+hash = "2f41a6be5093dd11d00ed668b21285414cd339b99dc6ee3ecc6dbc3c18dca6ce"
+
+[[files]]
+file = "resourcepacks/0 - Poké-Hats 1.2.zip"
+hash = "00b346c3a56f2142eb426a271db5ecd27a934d77e0958e34776a4ecde15c1c63"
+
+[[files]]
+file = "resourcepacks/1 - Diance.zip"
+hash = "a69b92bbcf4d981a78b89232e6fb9177d3d10eb3b7a1b963e5ae9066c45d712b"
+
+[[files]]
+file = "resourcepacks/1 - Kale's Collection 1.6.2.zip"
+hash = "1fb96310251ffabcc2b3f6dd96840bb9678a709c4854f3b1267d6a204c65cb52"
+
+[[files]]
+file = "resourcepacks/1 - Poké Costume 2.0.zip"
+hash = "e18839ec9f5bd8b656f112e8d38a5851a50c4bf3c0fde2f566ccc93e9251b734"
+
+[[files]]
+file = "resourcepacks/1 - Zaza.zip"
+hash = "35d94b0079412ea2d3664c3db9347e864acbe536ad18ac96f57aad6b9732fc75"
+
+[[files]]
+file = "resourcepacks/2 - MissingMon 2.7.zip"
+hash = "3ef1c3780cbcec899361b4d1ededd781fbae6b120ba1b4dff9c8222e066a34ec"
+
+[[files]]
+file = "resourcepacks/3 - PigeonPack.zip"
+hash = "920ca9cfc5ef583f7a4ae6077c700ab65770d5b476a71125a9dc9fa21946a56e"
+
+[[files]]
+file = "resourcepacks/4 - CloudMons 0.3.1.zip"
+hash = "e932335bbe2498f1684b89dba00df312690d2dff9c1127343f206668e30ff89a"
+
+[[files]]
+file = "resourcepacks/5 - LostMons 0.4.4.zip"
+hash = "70cdd42c4c0463112419469b6d34d4149c0b8eaa9d0a781a00532a03987ddb85"
+
+[[files]]
+file = "resourcepacks/6 - Genomons 1.5.1.zip"
+hash = "9c79654d36ce5b1d6e4621b5b3ce26259e154ce079497deb42960e4b21f2cbe9"
+
+[[files]]
+file = "resourcepacks/7 - MysticMons 2.0.zip"
+hash = "d3b66f3f7b1bea3be10a2c1e3e082b05b85ac0ba1f4b0320e43fec4cc72ad09a"
+
+[[files]]
+file = "resourcepacks/8 - Delta Clean.zip"
+hash = "87bfd085d65c6410d6a8265a46d9ed8b74300533a02f9000855d0c05f7813b2f"
