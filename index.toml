@@ -75,11 +75,6 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
-file = "mods/cobbledex.pw.toml"
-hash = "f2b664ec099193487f63d9626f433d708006f156e0fcfd6a087ed234352692d9"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-challenge.pw.toml"
 hash = "86688a820f48d6622d2b01fd3b1fda91bd80c6feca0d208f467c0c60226cf4b3"
 metafile = true
