@@ -79,6 +79,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/cobbledex.pw.toml"
+hash = "f2b664ec099193487f63d9626f433d708006f156e0fcfd6a087ed234352692d9"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-challenge.pw.toml"
 hash = "86688a820f48d6622d2b01fd3b1fda91bd80c6feca0d208f467c0c60226cf4b3"
 metafile = true
@@ -428,7 +433,3 @@ hash = "9c79654d36ce5b1d6e4621b5b3ce26259e154ce079497deb42960e4b21f2cbe9"
 [[files]]
 file = "resourcepacks/7 - MysticMons 2.0.zip"
 hash = "d3b66f3f7b1bea3be10a2c1e3e082b05b85ac0ba1f4b0320e43fec4cc72ad09a"
-
-[[files]]
-file = "resourcepacks/8 - Delta Clean.zip"
-hash = "87bfd085d65c6410d6a8265a46d9ed8b74300533a02f9000855d0c05f7813b2f"
