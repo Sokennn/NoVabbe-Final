@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "5099e338860ad8c96b349095384a48433af6d4fe184624b9b537b94ffd30fd54"
+hash = "c6f5e505776223794e275727b7d59e26fc62578961ceeffab086c6eab46cb5b3"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-unimplemented-items.pw.toml"
-hash = "3f0b1dfd749e3b3d2b2526fd470277e53353af15ed208d6ed4db3d847be8eee1"
+hash = "c0cca79ddd425ab1085908284851247739606e702985d566f9e340e7014e9d67"
 metafile = true
 
 [[files]]
