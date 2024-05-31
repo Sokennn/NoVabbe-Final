@@ -5,6 +5,10 @@ file = "config/inventorymanagement.toml"
 hash = "61640977ef02dd307e6781030924ebde648fcd262b2205ced4c3c27553f1602e"
 
 [[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "24efc71713d7bb561930c3f48886f67186689c6d617f9b5601c20acce83b50b4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aa9713b04a9a616f81f739cafd3b665e3fb835cc281c4478e92b0a8ba8e34c20"
 metafile = true
