@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cobblenav/client-cobblenav-config.json"
+hash = "0cd194d80aca04c560745602ed84caf68b751eccd6967f4ef779455e0388b937"
+
+[[files]]
+file = "config/cobblenav/cobblenav-config.json"
+hash = "787718fd8c63adef5143be22ffce6b521d94dc13f0d777fb2fb4751d440e505d"
+
+[[files]]
 file = "config/inventorymanagement.toml"
 hash = "61640977ef02dd307e6781030924ebde648fcd262b2205ced4c3c27553f1602e"
 
