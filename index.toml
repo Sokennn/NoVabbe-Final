@@ -110,6 +110,11 @@ hash = "c6f5e505776223794e275727b7d59e26fc62578961ceeffab086c6eab46cb5b3"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-myths-and-legends-addon.pw.toml"
+hash = "fe028e15deede2580bef032fa7149cfb865a1d550ff0632a828e2673eaae80f1"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "7f76ef4322b94442857e5240439b732c2dd4b6ac86ec8c3f7dd61d3f701b02bc"
 metafile = true
