@@ -6,7 +6,7 @@ hash = "61640977ef02dd307e6781030924ebde648fcd262b2205ced4c3c27553f1602e"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
-hash = "24efc71713d7bb561930c3f48886f67186689c6d617f9b5601c20acce83b50b4"
+hash = "1650bb5eb0829b9621ff87a6d314efca9f60078bed7a172a02d972c9cc800ff2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
