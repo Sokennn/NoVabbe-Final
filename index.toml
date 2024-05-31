@@ -386,44 +386,40 @@ file = "resourcepacks/0 - Poké-Hats 1.2.zip"
 hash = "00b346c3a56f2142eb426a271db5ecd27a934d77e0958e34776a4ecde15c1c63"
 
 [[files]]
-file = "resourcepacks/1 - DianceKeldeo.zip"
-hash = "81e8d7bedc0cef6c80201ccab1e95ed06320ad0d49347b2fd6727de1b1e36f36"
+file = "resourcepacks/1 - DiaKelZaza.zip"
+hash = "ba6cd72a869e903bcb7473df2f13d352e0d479f1e68e45baee01c9a092891216"
 
 [[files]]
-file = "resourcepacks/1 - Kale's Collection 1.6.2.zip"
-hash = "1fb96310251ffabcc2b3f6dd96840bb9678a709c4854f3b1267d6a204c65cb52"
+file = "resourcepacks/1 - Kale's Collection 1.6.3.zip"
+hash = "b03c19258f7d9803b063b63921eff26b5f31eef8afd44ca61c0f60dfa836c0e1"
 
 [[files]]
-file = "resourcepacks/1 - Poké Costume 2.0.zip"
-hash = "e18839ec9f5bd8b656f112e8d38a5851a50c4bf3c0fde2f566ccc93e9251b734"
+file = "resourcepacks/1 - Poké Costume 2.1.zip"
+hash = "db348b12d783a3a4b9dcc543447b3d94175f8f848fda4c6e19c361dabd55308a"
 
 [[files]]
-file = "resourcepacks/1 - Zaza.zip"
-hash = "35d94b0079412ea2d3664c3db9347e864acbe536ad18ac96f57aad6b9732fc75"
+file = "resourcepacks/2 - MissingMon 2.8.zip"
+hash = "6632192c4febcb3503d758ea6e8f9ed0e6ff36f487540a04ecf0ef13ce34a38f"
 
 [[files]]
-file = "resourcepacks/2 - MissingMon 2.7.zip"
-hash = "3ef1c3780cbcec899361b4d1ededd781fbae6b120ba1b4dff9c8222e066a34ec"
+file = "resourcepacks/3 - PigeonPack 1.0.zip"
+hash = "d05d425019af9b8c0d7c0f959bda9f097dca6d1865cc8f63035a922d15c17b3e"
 
 [[files]]
-file = "resourcepacks/3 - PigeonPack.zip"
-hash = "920ca9cfc5ef583f7a4ae6077c700ab65770d5b476a71125a9dc9fa21946a56e"
+file = "resourcepacks/4 - CloudMons 0.3.2.zip"
+hash = "2a6d37deb8555df4f01e914c414fc0b7041d452b82c2f9208ae72f2315aadb32"
 
 [[files]]
-file = "resourcepacks/4 - CloudMons 0.3.1.zip"
-hash = "e932335bbe2498f1684b89dba00df312690d2dff9c1127343f206668e30ff89a"
+file = "resourcepacks/5 - LostMons 0.4.5.zip"
+hash = "cbab204f455b5a8cc212fec1ba8365dda5caf1752e742c3dfd7d3458f8cefa40"
 
 [[files]]
-file = "resourcepacks/5 - LostMons 0.4.4.zip"
-hash = "70cdd42c4c0463112419469b6d34d4149c0b8eaa9d0a781a00532a03987ddb85"
+file = "resourcepacks/6 - Genomons 1.5.3.zip"
+hash = "dd3bdb2fe11a193bca730f224a836a629182bd01c6e10a843c972a9108af166b"
 
 [[files]]
-file = "resourcepacks/6 - Genomons 1.5.2.zip"
-hash = "34d49a1d3197ae201a13caf9cdf0a305415269c9cc20f13b372b45b9a2f85a3d"
-
-[[files]]
-file = "resourcepacks/7 - MysticMons 2.1.zip"
-hash = "3b8592e9612a50712cba67712658206c52b6e19901271a274897883652efe488"
+file = "resourcepacks/7 - MysticMons 2.2.zip"
+hash = "69ac3ec57897a85bf7e35ab721451f44e2a578548289d07667bfdf32081666c2"
 
 [[files]]
 file = "resourcepacks/8 - Delta 1.2.zip"
