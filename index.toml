@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblepedia.pw.toml"
-hash = "c0bdf864595151b3bc6bef7256139f9348c9bc16cba990a997fc32e50c894c8b"
+hash = "c5f97e84177a5d77449dfb7e777cfd9d6d6a080f154d5db0d302f7d556b4f814"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
@@ -378,8 +378,8 @@ file = "resourcepacks/0 - Cobblemon Interface v1.1.1.zip"
 hash = "c67dbc4e5928fc7c2a3c3cba75bb5a58fa4cfe9da13771fe93a182cbe1c80071"
 
 [[files]]
-file = "resourcepacks/0 - KieceIcons 1.0.zip"
-hash = "e219d1541af1d76f3a99dccf1cfab236650fd817e28c58f3cf34c092189e0881"
+file = "resourcepacks/0 - KieceIcons 1.1.zip"
+hash = "127f6e146e303f8ec6d5b41dab808f6d66869ddbc50c516321c2c5429939ec06"
 
 [[files]]
 file = "resourcepacks/0 - Poké-Hats 1.2.zip"
