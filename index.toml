@@ -383,53 +383,13 @@ hash = "a2fcbfa66810d21fc67499ea6fc65b4c465110d52c92408f6c35d7c1e1f96c6d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/0 - Cobblemon Interface 1.2.zip"
+file = "resourcepacks/Battle Music S1.zip"
+hash = "ad07b38ab51f74bfe9d90f3aa3966c007616036cd43d1057bbe0152baf677fdb"
+
+[[files]]
+file = "resourcepacks/Cobblemon Interface S1.zip"
 hash = "bf8f82602a626f8dbbe4cbaecdbc9479c94a09c1ac5a0efd018667022d781f55"
 
 [[files]]
-file = "resourcepacks/0 - KieceIcons 1.1.zip"
+file = "resourcepacks/KieceIcons S1.zip"
 hash = "127f6e146e303f8ec6d5b41dab808f6d66869ddbc50c516321c2c5429939ec06"
-
-[[files]]
-file = "resourcepacks/0 - Poké-Hats 1.2.zip"
-hash = "00b346c3a56f2142eb426a271db5ecd27a934d77e0958e34776a4ecde15c1c63"
-
-[[files]]
-file = "resourcepacks/1 - Kale's Collection 1.6.3.zip"
-hash = "b03c19258f7d9803b063b63921eff26b5f31eef8afd44ca61c0f60dfa836c0e1"
-
-[[files]]
-file = "resourcepacks/1 - Poké Costume 2.1.zip"
-hash = "db348b12d783a3a4b9dcc543447b3d94175f8f848fda4c6e19c361dabd55308a"
-
-[[files]]
-file = "resourcepacks/1 - Soken Edit.zip"
-hash = "dbfe02a90194fdfa1cdca5cd3c1aeac7eb68f0ddc0a48c9c9ac5d2d038e76d00"
-
-[[files]]
-file = "resourcepacks/2 - MissingMon 2.8.zip"
-hash = "6632192c4febcb3503d758ea6e8f9ed0e6ff36f487540a04ecf0ef13ce34a38f"
-
-[[files]]
-file = "resourcepacks/3 - PigeonPack 1.0.zip"
-hash = "d05d425019af9b8c0d7c0f959bda9f097dca6d1865cc8f63035a922d15c17b3e"
-
-[[files]]
-file = "resourcepacks/4 - CloudMons 0.3.2.zip"
-hash = "2a6d37deb8555df4f01e914c414fc0b7041d452b82c2f9208ae72f2315aadb32"
-
-[[files]]
-file = "resourcepacks/5 - LostMons 0.4.5.zip"
-hash = "cbab204f455b5a8cc212fec1ba8365dda5caf1752e742c3dfd7d3458f8cefa40"
-
-[[files]]
-file = "resourcepacks/6 - Genomons 1.5.3.zip"
-hash = "dd3bdb2fe11a193bca730f224a836a629182bd01c6e10a843c972a9108af166b"
-
-[[files]]
-file = "resourcepacks/7 - MysticMons 2.2.zip"
-hash = "69ac3ec57897a85bf7e35ab721451f44e2a578548289d07667bfdf32081666c2"
-
-[[files]]
-file = "resourcepacks/8 - Delta 1.3.zip"
-hash = "1c7bf5931e8c003341e0229764784313e0723c7483c35f5f4a9fa52834e793ea"
