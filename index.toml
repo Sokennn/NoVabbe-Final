@@ -299,3 +299,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "a2fcbfa66810d21fc67499ea6fc65b4c465110d52c92408f6c35d7c1e1f96c6d"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Battle Music S1.zip"
+hash = "ad07b38ab51f74bfe9d90f3aa3966c007616036cd43d1057bbe0152baf677fdb"
+
+[[files]]
+file = "resourcepacks/Cobblemon Interface S1.zip"
+hash = "bf8f82602a626f8dbbe4cbaecdbc9479c94a09c1ac5a0efd018667022d781f55"
