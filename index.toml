@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "7f76ef4322b94442857e5240439b732c2dd4b6ac86ec8c3f7dd61d3f701b02bc"
+hash = "dcc39cf45a55872deb1dcf2045e218e1194300d9d862beac3878b9a955512714"
 metafile = true
 
 [[files]]
@@ -144,12 +144,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonrider.pw.toml"
-hash = "3c06ca9cbe623719ea397be2f98f03a3170fa7701074214c76c6347ce41da2a6"
+hash = "2bde732f4613e2a7e749c2f75baebf33514abc93aec34baeb358e52254356c6a"
 metafile = true
 
 [[files]]
 file = "mods/cobblemontrainers.pw.toml"
-hash = "15352474eb40e8cdd9d98eb965938019a96d0010aaadb3210d034c7bb7494b20"
+hash = "0222c93fa34d705532c0bc3b57e60259faa38c030b10acf37392a3cbb3bb92fd"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "00ad8cbf63ae196b67cf52108fe9bda6822a28cd6b0f59370ec0334b0256444e"
+hash = "5931ad1296bddf7174c5bb30a2fdb3e11fd1c3da08db32001480f4d0b7b1efda"
 metafile = true
 
 [[files]]
@@ -364,12 +364,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4c176f305e2b3c52b47c58d252a0e46e4a8d4b89043385090dae3e40e91ba0f9"
+hash = "74a5d6dc2fa3494650bf951f2212c70eeb6b8d1af209b5dab4b7a8582302865c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d71dabaf362ddbae6f8fd3a8bb648b20b57bde93a1a59232c98da9e5403203d6"
+hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
 metafile = true
 
 [[files]]
