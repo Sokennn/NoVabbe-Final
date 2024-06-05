@@ -1,0 +1,13 @@
+name = "Weave"
+filename = "weave-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V0pdJHBK/versions/hHr7r4CC/weave-1.4.jar"
+hash-format = "sha1"
+hash = "b6ce7b3522b1fe6dd39865c97ca5dd2237076e4c"
+
+[update]
+[update.modrinth]
+mod-id = "V0pdJHBK"
+version = "hHr7r4CC"
