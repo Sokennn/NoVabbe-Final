@@ -46,6 +46,11 @@ hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -261,6 +266,11 @@ hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "4371fb81920fbe53fafa0eef2d5f49338e20cd137575c86185658dfa94e32ac8"
+metafile = true
+
+[[files]]
 file = "mods/wakes.pw.toml"
 hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
 metafile = true
@@ -300,5 +310,5 @@ file = "resourcepacks/Battle Music S1.zip"
 hash = "ad07b38ab51f74bfe9d90f3aa3966c007616036cd43d1057bbe0152baf677fdb"
 
 [[files]]
-file = "resourcepacks/Cobblemon Interface S1.zip"
-hash = "bf8f82602a626f8dbbe4cbaecdbc9479c94a09c1ac5a0efd018667022d781f55"
+file = "resourcepacks/Cobblemon Interface S2.zip"
+hash = "c84fa8876abe0d3b060de57f34a15cd02621d827f2fceb42a623ca4befcad6b0"
