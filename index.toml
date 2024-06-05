@@ -271,11 +271,6 @@ hash = "eac8d9e0eacb296e7b648d3f1c3fc648e6d2c938d2b98c195b804c62183c6c26"
 metafile = true
 
 [[files]]
-file = "mods/weave.pw.toml"
-hash = "4ea760906f8e9c091f91be9e9847cc9cd02480075824a0aca3f53361cae390e6"
-metafile = true
-
-[[files]]
 file = "mods/where-are-my-tms.pw.toml"
 hash = "afa37ff0933737289762d010849bed6cd99960f626e21ff11dc1a97524da4f43"
 metafile = true
