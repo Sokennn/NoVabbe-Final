@@ -310,5 +310,9 @@ file = "resourcepacks/Battle Music S1.zip"
 hash = "ad07b38ab51f74bfe9d90f3aa3966c007616036cd43d1057bbe0152baf677fdb"
 
 [[files]]
-file = "resourcepacks/Cobblemon Interface S2.zip"
+file = "resourcepacks/Cobblemon Interface Modded.zip"
 hash = "c84fa8876abe0d3b060de57f34a15cd02621d827f2fceb42a623ca4befcad6b0"
+
+[[files]]
+file = "resourcepacks/Cobblemon Interface.zip"
+hash = "c67dbc4e5928fc7c2a3c3cba75bb5a58fa4cfe9da13771fe93a182cbe1c80071"
