@@ -121,6 +121,11 @@ hash = "8a240b2a885919e6e607d39b96de0d59353c7174dfb9dac45b04afaa1fad1584"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "9f7be909a6e1584ecb557cc1061bd57769d7750b72121f82496c2d3b3d178819"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "2f7b4303cff064f30e17cfce29235ac4231bcab38d11627c73e59fbde663c6e1"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "2553c294bd09039157a462dbf2559bd791671bddb6e7b40fd39ae9148e4791d2"
 metafile = true
 
 [[files]]
