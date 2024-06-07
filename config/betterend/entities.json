@@ -1,0 +1,8 @@
+{
+  "dragonfly [default: false]": false,
+  "end_slime [default: false]": false,
+  "end_fish [default: false]": false,
+  "shadow_walker [default: false]": false,
+  "cubozoa [default: false]": false,
+  "silk_moth [default: false]": false
+}
