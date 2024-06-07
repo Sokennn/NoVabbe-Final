@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/incendium.pw.toml"
-hash = "3ca288e948a12a854c4d8e74dbf5e32302f41478b75f364709087709d66402de"
+hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]
