@@ -185,11 +185,6 @@ hash = "c333b507d780cba7c54569401acbf9e4e02c7c0a78fb645379b7a48773486427"
 metafile = true
 
 [[files]]
-file = "mods/ibo.pw.toml"
-hash = "a59104e11253a32550d051efcf0a9c69c79c4326bab174bce052b38153bc139b"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
 metafile = true
