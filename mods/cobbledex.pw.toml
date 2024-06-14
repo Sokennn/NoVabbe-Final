@@ -1,8 +1,0 @@
-name = "Cobbledex"
-filename = "cobbledex-1.20.1-fabric-1.0.14.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Rafacasari/cobbledex/releases/download/v1.0.14/cobbledex-1.20.1-fabric-1.0.14.jar"
-hash-format = "sha1"
-hash = "62db9076e9a255c191a749c0b25985ca8df7956a"
