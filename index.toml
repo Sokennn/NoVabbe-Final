@@ -80,6 +80,10 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/cobbledex-1.20.1-fabric-1.0.14.jar"
+hash = "b8b6b269c4ee0651114335740f9b4b3e4cc70dcc364727471788933c8ddab133"
+
+[[files]]
 file = "mods/cobblemon-challenge.pw.toml"
 hash = "86688a820f48d6622d2b01fd3b1fda91bd80c6feca0d208f467c0c60226cf4b3"
 metafile = true
