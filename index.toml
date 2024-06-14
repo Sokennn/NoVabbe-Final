@@ -115,6 +115,11 @@ hash = "c6e543c9394b1611901662b408607e6ec3cd4b6ca40299cac7c9b2a38c935a68"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-pokedex.pw.toml"
+hash = "29c9b6559250e897dce06c7daefef062fe65a8c1178fee2f00bb851a1c162ff7"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "12e8865a58b94ffe8dd2846e1da9570393dc038181f8b61459c78bcf6ebaaea5"
 metafile = true
