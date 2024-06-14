@@ -1,0 +1,11 @@
+name = "Cobbledex"
+filename = "cobbledex-1.20.1-fabric-1.0.14.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Rafacasari/cobbledex/releases/download/v1.0.14/cobbledex-1.20.1-fabric-1.0.14.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b8b6b269c4ee0651114335740f9b4b3e4cc70dcc364727471788933c8ddab133"
