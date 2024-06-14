@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbledex.pw.toml"
-hash = "aa9cb985d8425afcf53dfc698d545064032f4e10367de515f172ef07678e36b8"
+hash = "bb50077bb58e36997d89af0a5bda8947c15e644ee83e5b250394520742105def"
 metafile = true
 
 [[files]]
