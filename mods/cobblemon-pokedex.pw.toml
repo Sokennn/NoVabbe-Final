@@ -1,13 +1,13 @@
 name = "Cobbledex (Cobblemon Pokedex)"
-filename = "cobbledex-1.20.1-fabric-1.0.14.jar"
+filename = "cobbledex-1.20.1-fabric-1.0.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fKNwbN70/versions/N2muLD0E/cobbledex-1.20.1-fabric-1.0.14.jar"
+url = "https://cdn.modrinth.com/data/fKNwbN70/versions/Rkw6huZe/cobbledex-1.20.1-fabric-1.0.17.jar"
 hash-format = "sha1"
-hash = "62db9076e9a255c191a749c0b25985ca8df7956a"
+hash = "bcf1564750c18049a4ea50f9850c28b396acca56"
 
 [update]
 [update.modrinth]
 mod-id = "fKNwbN70"
-version = "N2muLD0E"
+version = "Rkw6huZe"
