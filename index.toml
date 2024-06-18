@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/armorhide.pw.toml"
-hash = "bb20da77f228ef48e5a8523d31304b8cb8940e4bca493e0738493b6d7ebac3cb"
+hash = "ffbd324af31f2597be7d4429911e4310f6d7417b4ac62990cabfa3cd0f83e2d2"
 metafile = true
 
 [[files]]
