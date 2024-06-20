@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokedex.pw.toml"
-hash = "dae01ae7c2ce52a28479d8fd012d60ae176bbe34063bcccf7d2f868395b2c18d"
+hash = "59ad14790aed08ae3b987be071c5f65a048d55a6275aa37621ad71c4bcd65385"
 metafile = true
 
 [[files]]
